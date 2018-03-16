@@ -14,8 +14,6 @@ func (s *Saiyan) Super() {
 }
 
 func main() {
-  // multiple ways of initializing
-  // the &Saiyan gives the memory address of the initialized Saiyan variable.
   goku := &Saiyan {
     Name: "Goku",
     Power: 9000,
