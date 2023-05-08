@@ -30,3 +30,4 @@ Actions:
       # Required - Steps are sequential instructions that run shell commands
       Steps:
         - Run: echo "HELLO WORLD"
+        - Run: echo "HELLO WORLD22"
