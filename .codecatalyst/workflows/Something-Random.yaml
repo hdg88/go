@@ -27,9 +27,6 @@ Actions:
 
     # Defines the action's properties.
     Configuration:
-      Container:
-        Registr: registry
-        Image: something
       # Required - Steps are sequential instructions that run shell commands
       Steps:
         - Run: echo "HELLO WORLD"
