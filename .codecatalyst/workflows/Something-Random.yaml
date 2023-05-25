@@ -16,7 +16,7 @@ Actions:
     Inputs:
       # Optional
       Sources:
-        - WorkflowSource # This specifies that the action requires this Workflow as a source
+        - WorkflowSource # This specifies that the action requires this Workflow as a source this
 
     Outputs:
       # Optional; Automatically discover reports for popular test frameworks
